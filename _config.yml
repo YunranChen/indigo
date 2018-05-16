@@ -8,7 +8,7 @@ description: All about Statistics and dreams.
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: 'assets/images/profile.jpg'
+picture: 'assets/images/profile.jpeg'
 
 # url: http://yunranchen.github.io
 # your url: http://USERNAME.github.io
@@ -28,7 +28,7 @@ highlighter: rouge
 # facebook: myfacebook
 twitter: Yunranla
 # google: mygoogle
-instagram: yunrancheno
+#instagram: yunrancheno
 #pinterest: annasw
 #linkedin: artiannaswamy
 # youtube: myyoutube
@@ -42,7 +42,7 @@ authors:
         name: Yunran Chen
         bio: 'Statistics and dreams.'
         external-image: false
-        picture: assets/images/profile.jpg
+        picture: assets/images/profile.jpeg
         twitter: Yunranla
 
 
@@ -57,8 +57,8 @@ width: large
 
 # if you don't need projects, comment the *projects* configs below
 # projects: true
- research: true
- teaching: true
+# research: true
+# teaching: true
 # if you don't need about or blog, comment them out below
  about: true
 # blog: true
