@@ -10,7 +10,7 @@ description: All about Statistics and dreams.
 external-image: false
 picture: 'assets/images/profile.jpg'
 
- url: http://yunranchen.github.io
+# url: http://yunranchen.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -26,21 +26,21 @@ highlighter: rouge
 
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
- twitter: Yunranla
+twitter: Yunranla
 # google: mygoogle
- instagram: yunrancheno
+instagram: yunrancheno
 #pinterest: annasw
 #linkedin: artiannaswamy
 # youtube: myyoutube
 # spotify: myspotify
- github: YunranChen
+github: YunranChen
 # medium: medium
- email: yunran.chen@duke.edu
+email: yunran.chen@duke.edu
 
 authors:
     YunranChen:
         name: Yunran Chen
-        bio: Statistics and dreams.
+        bio: 'Statistics and dreams.'
         external-image: false
         picture: assets/images/profile.jpg
         twitter: Yunranla
@@ -49,7 +49,7 @@ authors:
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
-width: normal
+width: large
 
 # if you don't need pagination, comment the *paginate* configs below
  paginate: 5
